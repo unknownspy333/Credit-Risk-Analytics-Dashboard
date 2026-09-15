@@ -112,7 +112,7 @@ Credit-Risk-Analytics-Dashboard/
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Credit-Risk-Analytics-Dashboard.git
+   git clone https://github.com/unknownspy333/Credit-Risk-Analytics-Dashboard.git
    ```
 3. Open `powerbi/Credit_Risk_Dashboard.pbix`.
 4. If the data source path does not resolve, go to **Transform Data → Data source settings** and point it at your local copy of `data/Banking_Credit_Risk_Dataset.csv`.
