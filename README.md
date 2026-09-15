@@ -2,7 +2,7 @@
 
 An end-to-end credit risk analytics project built in **Power BI** with **Python** visuals, covering 12,000 loan applications across five regions. The dashboard tracks portfolio health, regional risk concentration, and the financial drivers behind borrower default.
 
-**Author:** Devaraju K G
+**Author:** Pratik Thombre
 
 ---
 
